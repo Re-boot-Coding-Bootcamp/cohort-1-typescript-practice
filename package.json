@@ -1,0 +1,22 @@
+{
+  "name": "typescript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Re-boot-Coding-Bootcamp/cohort-1-typescript-practice.git"
+  },
+  "author": "Re:boot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Re-boot-Coding-Bootcamp/cohort-1-typescript-practice/issues"
+  },
+  "homepage": "https://github.com/Re-boot-Coding-Bootcamp/cohort-1-typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
